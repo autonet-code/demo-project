@@ -1,4 +1,4 @@
-# Autonet Demo Project
+# Demo Project
 ### Simple neural network chatbot with 5 intents
 
 
